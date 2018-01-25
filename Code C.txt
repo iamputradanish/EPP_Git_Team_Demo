@@ -1,5 +1,4 @@
-Version 2.1 Uno
-
+Version 2.2 Conflict is bad!
 /********************
 Just to simulate content in a programming source code
 All statements starts as "Code C" in this file
@@ -9,7 +8,7 @@ All statements starts as "Code C" in this file
 2. Code Uno
 3. Code Uno
 4. Code Uno
-5. Code Uno
+5. Code Duo
 6. Code C
 7. Code C
 8. Code C
